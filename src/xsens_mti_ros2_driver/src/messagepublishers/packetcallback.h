@@ -37,6 +37,7 @@
 #include <xstypes/xsdatapacket.h>
 
 const char* DEFAULT_FRAME_ID = "imu_link";
+const char* DEFAULT_REFERENCE_FRAME_ID = "base_link";
 
 class PacketCallback
 {
